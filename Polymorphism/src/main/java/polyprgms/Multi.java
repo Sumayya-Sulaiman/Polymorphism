@@ -11,7 +11,7 @@ Multi(int a,int b,int c)
 this.a=a;
 this.b=b;
 this.c=c;
-//int d=a*b*c;
+
 }
 public void mul()
 {
